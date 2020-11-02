@@ -1,2 +1,3 @@
 # astro-ml
-Códigos implementados durante ic
+Códigos implementados durante iniciação cientifica no if-ufrgs.
+
