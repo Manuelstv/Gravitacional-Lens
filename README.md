@@ -42,6 +42,5 @@ the original mocked images and the other containing those and also the correspon
 subtracted images. We will show the implemented algorithm and the preliminary results of the
 comparison on the efficiency between the two methods on finding galaxy-scale lens systems.
 
-
-![poster sic2](https://user-images.githubusercontent.com/43625325/97908247-34b1e000-1d25-11eb-9e2d-939a8c7cf247.png)
+![alt text](https://github.com/Manuelstv/Gravitacional-Lens/blob/main/poster%20sic2.png)
 
