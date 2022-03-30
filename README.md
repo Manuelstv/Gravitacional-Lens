@@ -1,4 +1,4 @@
-# astro-ml
+# Astro-ML
 Códigos implementados durante iniciação cientifica no if-ufrgs.
 
 
